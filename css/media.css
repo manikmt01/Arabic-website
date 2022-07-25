@@ -1,0 +1,768 @@
+/*Extra small devices (portrait phones, less than 320px)*/
+@media  (max-width: 320px){
+	
+	
+	
+	
+	
+}
+/*Extra small devices (portrait phones, less than 360px)*/
+@media  (max-width: 360px){
+	
+	
+	
+	
+	
+	
+	
+	
+}
+/*Extra small devices (portrait phones, less than 375px)*/
+@media  (max-width: 375px){
+	
+	
+	
+	
+	
+	
+}
+/*Extra small devices (portrait phones, less than 414px)*/
+@media  (max-width: 414px){
+	
+	
+	
+	
+	
+	
+	
+}
+ /*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+
+.login-wrapper .item-left ul li a img {
+    width: 20px;
+}
+.login-wrapper .item-left ul li:first-child {
+    margin-right: 0;
+    padding-left: 10px;
+    margin-left: 5px;
+    border-left: 2px solid #d65a47;
+}
+.login-wrapper .item-left .log-itop h2,.login-wrapper .item-left .log-itop h1 {
+    font-size: 35px;
+    line-height: 45px;
+}
+.login-wrapper .item-left .lg-footer-logo a img {
+    width: 60px;
+}
+
+
+
+
+
+}
+
+/*// Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+    
+	
+	
+	
+	
+	
+	
+}
+
+/*// Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+    
+	
+	
+	
+	
+	
+	
+}
+
+/*// Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+.nav-body .nav-bodyInner .nav .nav-item .btn-group button {
+    font-size: 16px;
+    line-height: 18px;
+    padding: 10px 14px;
+}
+.nav-body .nav-bodyInner .nav .nav-item .btn-group .dropdown-menu {
+    right: 0;
+}
+.wrapper2 .item-shadow h2 {
+    font-size: 44px;
+    line-height: 55px;
+}
+.wrapper2 .item-link ul li a {
+    padding-top: 12px;
+    padding-bottom: 35px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 30px;
+    line-height: 36px;
+}
+.wrapper2 .item-link ul li a.shape-round::before {
+    width: 30px;
+    height: 30px;
+}
+.wrapper2-img img {
+    width: 220px;
+}
+.login-wrapper .item-left .log-itop h1,.login-wrapper .item-left .log-itop h2 {
+    font-size: 36.5px;
+    line-height: 38.5px;
+}
+.login-wrapper .item-left .log-itop {
+    padding-bottom: 70px;
+}
+.footer.footer-login {
+    padding-top: 130px;
+    position: static;
+}
+.login-wrapper .item-left .login-slider {
+    width: 330px;
+    max-width: 100%;
+    margin: auto;
+}
+.login-slider .slick-dots {
+    bottom: -65px;
+    width: 129%;
+    margin: auto;
+    left: -35px;
+    right: 0;
+}
+.login-wrapper .lg-right .lg-right-inner {
+    width: 280px;
+}
+.login-wrapper .item-left {
+    padding-top: 100px;
+}
+.login-wrapper .lg-right img {
+    padding-bottom: 40px;
+}
+.login-wrapper .lg-right h4 {
+    font-size: 26.5px;
+    line-height: 30px;
+    margin-bottom: 30px;
+}
+
+.login-wrapper .lg-right form label {
+    font-size: 20px;
+    line-height: 26.5px;
+    margin-bottom: 10px;
+}
+.login-wrapper .lg-right form input {
+    border: 0;
+    padding: 8px 20px;
+}
+.login-wrapper .lg-right {
+    padding-top: 80px;
+    padding-bottom: 50px;
+
+}
+
+.calendar-wrapper tbody td {
+    font-size: 12px;
+    height: 20px;
+}
+
+.calendar-wrapper {
+    padding: 10px 10px 15px 10px;
+}
+.head-month {
+    margin-top: 30px;
+    font-size: 15px;
+}
+.pre-button, .next-button {
+    margin-top: 12px;
+    margin-left: 0;
+    margin-right: 0;
+}
+#header {
+    height: auto;
+    padding: 0 20px;
+}
+.item-col-lg-95 .slider-inner-item h3 {
+    padding: 6px 15px;
+    font-size: 11.55px;
+    bottom: 55px;
+}
+
+.item-col-lg-95  .slick-dots li {
+    width: 30px;
+    height: 3px;
+    margin: 0 10px !important;
+}
+.item-col-lg-95  .slick-dots li button {
+    width: 30px;
+    height: 3px;
+}
+.item-col-lg-95  .slick-dots li button:before {
+    width: 30px;
+    height: 3px;
+}
+.item-col-lg-95 {
+    width: 84%;
+    padding-left: 0;
+}
+.wrapper06 .item01 {
+    margin-right: -3px;
+}
+.item-col-lg-25 {
+    width: 16%;
+}
+.wrapper06 .witemBody .imgText h4 {
+    font-size: 11px;
+    margin-top: -20px;
+}
+.wrapper06 .witemBody h4.shape-round::before {
+    width: 13px;
+    height: 13px;
+}
+.arrow-down {
+    bottom: 40px;
+    width: 20px;
+}
+.top-h4 h4.shape-round::before {
+    width: 18px !important;
+    height: 18px !important;
+}
+.circle_percent {
+    font-size: 75px;
+}
+
+
+
+	
+}
+
+/*// Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1280px) {
+.nav-body .nav-bodyInner .nav .nav-item .btn-group button {
+    font-size: 17px !important;
+}   
+    
+	
+	
+	
+	
+}
+
+/*// Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1279px) and (max-width: 1439px) {
+.nav-body .nav-bodyInner .nav .nav-item .btn-group button {
+    font-size: 19px;
+}
+	
+	
+	
+	
+}
+
+
+
+/*// Extra large devices (large desktops, 1440px and up)*/
+@media (min-width: 1400px) and (max-width: 1535.98px){
+
+.login-wrapper .item-left {
+    padding-top: 100px;
+}
+.footer.footer-login {
+    padding-top: 100px;
+}
+.login-wrapper .lg-right {
+    padding-top: 80px;
+}
+.login-wrapper .item-left .login-slider {
+    width: 300px;
+}
+.login-wrapper .item-left .log-itop {
+    padding-bottom: 75px;
+}
+.login-wrapper .lg-right img {
+    padding-bottom: 40px;
+}
+.login-wrapper .lg-right .lg-right-inner {
+    width: 300px;
+    max-width: 100%;
+    margin: auto;
+}
+.login-wrapper .item-left .log-itop h1,.login-wrapper .item-left .log-itop h2 {
+    font-size: 50.5px;
+    line-height: 60.5px;
+}
+.slick-dots li button:before {
+    width: 45px;
+}
+.slick-dots li button {
+    width: 45px;
+    padding: 5px;
+}
+.slick-dots li {
+    width: 45px;
+}.login-wrapper .lg-right h4 {
+    font-size: 29.5px;
+    line-height: 35px;
+    margin-bottom: 20px;
+}
+.login-wrapper .lg-right form label {
+    font-size: 20px;
+    line-height: 24.5px;
+}
+.login-wrapper .lg-right form button {
+    width: 100%;
+    display: block;
+    background: #04a972;
+    line-height: 36.7px;
+    font-size: 28.5px;
+    border-radius: 30px;
+    color: #fff;
+    padding: 10px 10px 10px 10px;
+    margin-top: 30px;
+}
+.wrapper06 .witemBody .imgText h4 {
+    text-align: center;
+    font-size: 15px;
+    color: #1d2d50;
+    margin-top: -25px;
+    margin-bottom: 0;
+}
+
+
+
+
+
+
+
+}
+
+
+
+
+
+/*// Extra large devices (large desktops, 1440px and up)*/
+@media (min-width: 1536px) and (max-width: 1599px){
+.login-wrapper .item-left {
+    padding-top: 100px;
+}
+.footer.footer-login {
+    padding-top: 95px;
+}
+.login-wrapper .lg-right {
+    padding-top: 110px;
+}
+.login-wrapper .item-left .login-slider {
+    width: 380px;
+}
+.login-wrapper .item-left .log-itop {
+    padding-bottom: 105px;
+}
+.login-wrapper .lg-right img {
+    padding-bottom: 50px;
+}
+
+
+.wrapper2 .item-shadow h2 {
+    font-size: 70px;
+    line-height: 80px;
+}
+.wrapper2 .item-link ul li a {
+    font-size: 60px;
+    line-height: 60px;
+}
+.wrapper2 .item-link ul li a.shape-round::before {
+    width: 50px;
+    height: 50px;
+}
+.wrapper2 h4.shape-round::before {
+    width: 55px;
+    height: 55px;
+}
+.wrapper2 h4 {
+    font-size: 55px;
+    line-height: 60px;
+    width: 95%;
+}
+.wrapper2-img img {
+    width: 290px;
+}
+.item-col-lg-25 {
+    margin-left: -6px;
+}
+
+
+
+
+
+
+
+
+
+}
+
+
+@media (min-width: 1600px) and (max-width: 1699.99px){
+.login-wrapper .item-left {
+    padding-top: 100px;
+}
+.footer.footer-login {
+    padding-top: 100px;
+}
+.login-wrapper .lg-right {
+    padding-top: 110px;
+}
+
+
+
+
+.wrapper2 .item-shadow h2 {
+    font-size: 62px;
+    line-height: 65px;
+}
+.wrapper2 .item-link ul li a {
+    font-size: 54px;
+    line-height: 56px;
+}
+.wrapper2 .item-link ul li a.shape-round::before {
+    width: 50px;
+    height: 50px;
+}
+.wrapper2 h4.shape-round::before {
+    width: 55px;
+    height: 55px;
+}
+.wrapper2 h4 {
+    font-size: 55px;
+    line-height: 60px;
+}
+.wrapper2-img img {
+    width: 390px;
+}
+.nav-body .nav-bodyInner .nav .nav-item .btn-group button {
+    font-size: 23px;
+}
+.nav-body .nav-bodyInner .nav .nav-item .btn-group .dropdown-menu .item ul li a {
+    font-size: 15.5px !important;
+}
+.calendar-wrapper tbody td {
+    height: 38px;
+}
+.item-col-lg-25 {
+    margin-left: -6px;
+}
+
+
+}
+@media (min-width: 1700px) and (max-width: 2099.98px){
+
+.footer.footer-login {
+    padding-top: 160px;
+    position: fixed;
+    bottom: 0;
+    width: 50%;
+    left: 0;
+}
+.wrapper2 .item-shadow h2 {
+    font-size: 78px;
+    line-height: 95px;
+}
+.wrapper2 .item-link ul li a {
+    font-size: 65px;
+    line-height: 60px;
+}
+.wrapper2 .item-link ul li a.shape-round::before {
+    width: 60px;
+    height: 60px;
+}
+.wrapper2 h4.shape-round::before {
+    width: 60px;
+    height: 60px;
+}
+.wrapper2 h4 {
+    font-size: 60px;
+    line-height: 70px;
+}
+.wrapper2-img img {
+    width: 420px;
+}
+.nav-body .nav-bodyInner .nav .nav-item .btn-group button {
+    font-size: 30px;
+    line-height: 45px;
+}
+.nav-body .nav-bodyInner .nav .nav-item .btn-group .dropdown-menu .item ul li a {
+    font-size: 23.5px !important;
+    padding: 6px 16px !important;
+}
+.wrapper2 .item-shadow h2::after {
+    left: -10px;
+    top: -25px;
+    width: 95px;
+    height: 60px;
+}
+.wrapper3 h4 {
+    font-size: 66px;
+    line-height: 60px;
+    width: 90%;
+}
+
+.head-month {
+    margin-top: 60px;
+    font-size: 1.2em;
+    line-height: 1;
+    font-size: 28px;
+}
+.pre-button, .next-button {
+    margin-top: 46px;
+}
+.calendar-wrapper tbody td {
+    width: 14%;
+    font-size: 24px;
+    height: 49px;
+}
+.wrapper06 .slick-dots {
+    bottom: 30px;
+}
+.slider-inner-item h3 {
+    bottom: 60px;
+}
+.arrow-down {
+    bottom: 50px;
+    width: 50px;
+}   
+.wrapper06 .witemBody {
+    padding-bottom: 10px;
+}
+.top-h4 h4 {
+    font-size: 28.25px;
+    line-height: 34.75px;
+}
+.top-h4 {
+    padding: 15px 10px 20px 10px;
+}
+.wrapper06 .witemBody h4.shape-round::before {
+    width: 25px;
+    height: 25px;
+}
+.wrapper06 .witemBody .imgText h4,.wrapper06 .witemBody .leftImages h4 {
+    font-size: 21px;
+}
+.wrapper06 .witemBody h4.shape-round::before {
+    width: 30px;
+    height: 30px;
+}
+.wrapper06 .item-right-prog h4 {
+    font-size: 26.25px;
+    font-weight: 700;
+    padding-right: 90px;
+    top: -3px;
+}
+.wrapper06 .item-right-prog h4 img {
+    width: 38px;
+    margin-left: -13px;
+}
+
+.wrapper06 .progress-inner .item040 h6 strong {
+    width: 130px;
+    display: inline-block;
+}
+.wrapper06 .progress-inner .item040 h6 {
+    font-size: 18px;
+    color: #1d2d50;
+}
+.wrapper06 .progress-inner .item040 h6 img {
+    width: 24px;
+}
+.imgleft {
+    right: 15px;
+    top: -2px;
+}
+.wrapper06 .progress-inner .itemEnd p {
+    font-size: 20px;
+}
+.item-col-lg-25 {
+    width: 13%;
+    max-width: 100%;
+    background: #182d53;
+    border-radius: 30px 0px 0px 0px;
+    z-index: 99;
+    margin-left: -10px;
+    padding: 25px 25px 15px 25px;
+}
+.wrapper06 .wrapp06-item .user img:first-child {
+    max-width: 160px;
+}
+.item-col-lg-95 {
+    width: 88%;
+}
+
+
+
+	
+}
+
+
+
+/*// Extra large devices (large desktops, 1440px and up)*/
+@media (min-width: 2100px){
+
+.footer.footer-login {
+    padding-top: 160px;
+    position: fixed;
+    bottom: 0;
+    width: 50%;
+    left: 0;
+}
+.wrapper2 .item-shadow h2 {
+    font-size: 78px;
+    line-height: 95px;
+}
+.wrapper2 .item-link ul li a {
+    font-size: 65px;
+    line-height: 60px;
+}
+.wrapper2 .item-link ul li a.shape-round::before {
+    width: 60px;
+    height: 60px;
+}
+.wrapper2 h4.shape-round::before {
+    width: 60px;
+    height: 60px;
+}
+.wrapper2 h4 {
+    font-size: 60px;
+    line-height: 70px;
+}
+.wrapper2-img img {
+    width: 420px;
+}
+.nav-body .nav-bodyInner .nav .nav-item .btn-group button {
+    font-size: 30px;
+    line-height: 45px;
+}
+.nav-body .nav-bodyInner .nav .nav-item .btn-group .dropdown-menu .item ul li a {
+    font-size: 23.5px !important;
+    padding: 6px 16px !important;
+}
+.wrapper2 .item-shadow h2::after {
+    left: -10px;
+    top: -25px;
+    width: 95px;
+    height: 60px;
+}
+.wrapper3 h4 {
+    font-size: 66px;
+    line-height: 60px;
+    width: 90%;
+}
+
+.head-month {
+    margin-top: 60px;
+    font-size: 1.2em;
+    line-height: 1;
+    font-size: 28px;
+}
+.pre-button, .next-button {
+    margin-top: 46px;
+}
+
+.calendar-wrapper tbody td {
+    width: 14%;
+    font-size: 24px;
+    height: 48px;
+}
+.wrapper06 .slick-dots {
+    bottom: 30px;
+}
+.slider-inner-item h3 {
+    bottom: 60px;
+}
+.arrow-down {
+    bottom: 50px;
+    width: 50px;
+}   
+.wrapper06 .witemBody {
+    padding-bottom: 10px;
+}
+.top-h4 h4 {
+    font-size: 28.25px;
+    line-height: 34.75px;
+}
+.top-h4 {
+    padding: 15px 10px 20px 10px;
+}
+.wrapper06 .witemBody h4.shape-round::before {
+    width: 25px;
+    height: 25px;
+}
+.wrapper06 .witemBody .imgText h4,.wrapper06 .witemBody .leftImages h4 {
+    font-size: 21px;
+}
+.wrapper06 .witemBody h4.shape-round::before {
+    width: 30px;
+    height: 30px;
+}
+.wrapper06 .item-right-prog h4 {
+    font-size: 26.25px;
+    font-weight: 700;
+    padding-right: 90px;
+    top: -3px;
+}
+.wrapper06 .item-right-prog h4 img {
+    width: 38px;
+    margin-left: -13px;
+}
+
+.wrapper06 .progress-inner .item040 h6 strong {
+    width: 130px;
+    display: inline-block;
+}
+.wrapper06 .progress-inner .item040 h6 {
+    font-size: 18px;
+    color: #1d2d50;
+}
+.wrapper06 .progress-inner .item040 h6 img {
+    width: 24px;
+}
+.imgleft {
+    right: 15px;
+    top: -2px;
+}
+.wrapper06 .progress-inner .itemEnd p {
+    font-size: 20px;
+}
+.item-col-lg-25 {
+    width: 15%;
+    max-width: 100%;
+    background: #182d53;
+    border-radius: 30px 0px 0px 0px;
+    z-index: 99;
+    margin-left: -10px;
+    padding: 25px 25px 15px 25px;
+}	
+	
+}
+/* 
+1920×1080
+1600×900
+1536×864
+1440×900
+1366×768	
+1280×720	
+1280×800	
+1280×1024	
+1024×768	
+768×1024
+ */
+
+
+
+
+
+
+
+
